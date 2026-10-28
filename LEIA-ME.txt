@@ -1,0 +1,1 @@
+Abra index.html no Chrome ou Edge. Versão jogável de teste: 5 mundos, 15 estrelas, clique, arrastar/soltar, voz em português, progressão e final personalizado.
